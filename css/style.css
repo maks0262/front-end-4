@@ -1,0 +1,28 @@
+ul li div {
+    color: lime;
+}
+ul li span {
+    color: indigo;
+}
+p {
+    color: tan;
+}
+
+li {
+    color: violet;
+}
+.some-class-a {
+    color: coral;
+}
+.some-class-b {
+    color: #65ffe3;
+}
+:lang(uk) {
+    color: blue;
+}
+.some-class-c {
+    color: #ff469b;
+}
+.some-class-d {
+    color: #8527ff;
+}
